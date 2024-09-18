@@ -36,7 +36,7 @@ public class CalculatorTest {
 	
 	@Test
 	public void testAdd2() {
-		assertEquals(11,cl.doAdd(4, 9),0);
+		assertEquals(13,cl.doAdd(4, 9),0);
 	}
 
 	@Test
